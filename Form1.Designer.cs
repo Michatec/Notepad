@@ -196,7 +196,7 @@
             this.vorgänigToolStripMenuItem.Name = "vorgänigToolStripMenuItem";
             this.vorgänigToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Y)));
             this.vorgänigToolStripMenuItem.Size = new System.Drawing.Size(239, 24);
-            this.vorgänigToolStripMenuItem.Text = "Vorgängig";
+            this.vorgänigToolStripMenuItem.Text = "Wiederholen";
             this.vorgänigToolStripMenuItem.Click += new System.EventHandler(this.vorgänigToolStripMenuItem_Click);
             // 
             // toolStripMenuItem3
